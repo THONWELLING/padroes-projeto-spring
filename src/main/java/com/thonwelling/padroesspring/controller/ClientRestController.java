@@ -1,6 +1,6 @@
 package com.thonwelling.padroesspring.controller;
 
-import com.thonwelling.padroesspring.controller.models.Client;
+import com.thonwelling.padroesspring.models.Client;
 import com.thonwelling.padroesspring.services.ClientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

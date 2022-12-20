@@ -1,7 +1,7 @@
 package com.thonwelling.padroesspring.services;
 
 
-import com.thonwelling.padroesspring.controller.models.Client;
+import com.thonwelling.padroesspring.models.Client;
 
 /**
  * Interface que define o padrão <b>Strategy</b> no domínio de cliente. Com

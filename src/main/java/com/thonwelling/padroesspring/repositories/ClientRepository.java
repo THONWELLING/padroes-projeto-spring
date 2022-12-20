@@ -1,6 +1,6 @@
 package com.thonwelling.padroesspring.repositories;
 
-import com.thonwelling.padroesspring.controller.models.Client;
+import com.thonwelling.padroesspring.models.Client;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
