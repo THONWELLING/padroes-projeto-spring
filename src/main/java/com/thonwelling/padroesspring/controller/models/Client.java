@@ -1,4 +1,4 @@
-package com.thonwelling.padroesspring.models;
+package com.thonwelling.padroesspring.controller.models;
 
 
 
